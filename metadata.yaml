@@ -1,0 +1,28 @@
+_repo: The-Time-of-Cold_61439
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carlson, Mary
+    alias: Larson, Mary
+    gutenberg_agent_id: '51431'
+    url: http://www.gutenberg.org/2009/agents/51431
+description: ''
+gutenberg_issued: '2020-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Survival -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Time of Cold
+url: http://www.gutenberg.org/ebooks/61439
